@@ -1,0 +1,2 @@
+# AI-StudyBuddy
+AI StudyBuddy
